@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/Xenomorphing828/IotPredictiveMaintenance/tree/main)
+- <b>Iot Predictive Maintenance Synthetic Data Generation</b>
+  - [Iot Predictive Maintenance](https://github.com/Xenomorphing828/IotPredictiveMaintenance/tree/main)
 
 
 <h2>📺 Project Demo YouTube Videos</h2>
