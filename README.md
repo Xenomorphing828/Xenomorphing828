@@ -8,6 +8,8 @@
 - <b>Mental Health Education Website</b>
   - [Mind Doubt](https://github.com/Xenomorphing828/Mind-Doubt)
 
+- <b>GODOT 2D Retro Platformer</b>
+  - [Planet Revival](https://github.com/Xenomorphing828/PlanetRevival)
 
 <h2>📔 Certifications</h2>
 
