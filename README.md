@@ -5,6 +5,8 @@
 - <b>Iot Predictive Maintenance Synthetic Data Generation</b>
   - [Iot Predictive Maintenance](https://github.com/Xenomorphing828/IotPredictiveMaintenance/tree/main)
 
+- <b>Mental Health Education Website</b>
+  - [Mind Doubt](https://github.com/Xenomorphing828/Mind-Doubt)
 
 <h2>📺 Project Demo YouTube Videos</h2>
 
