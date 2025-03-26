@@ -13,7 +13,7 @@
 
 <h2>📔 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [App Development with Swift Associate](https://www.credly.com/badges/73502600-88f5-44d0-a804-d782ab74ca04)
 
 
 <h2> 🤳 Connect with me:</h2>
